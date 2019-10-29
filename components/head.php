@@ -10,7 +10,9 @@
 	<meta charset="UTF-8">
 	<title><?php echo $link3; ?></title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	
+	<link href="netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+	<link href="netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/4cfd5e5ec5.js" crossorigin="anonymous"></script>
 </head>
 <body>
 	

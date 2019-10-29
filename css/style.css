@@ -1,9 +1,126 @@
+/* general*/
 *{
 	margin: 0;
 	padding: 0;
+	font-family: 'Airstrike';
+	
+	
+}
+h1{
+	color: #F1D302;
+}
+
+a{
+	text-decoration: none;
+	color: #F1D302;
+}
+li{
+	list-style-type: none;
+}
+@font-face {
+    font-family: 'Airstrike';
+    src: url('../fonts/Airstrike.eot');
+    src: url('../fonts/Airstrike.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Airstrike.woff2') format('woff2'),
+        url('../fonts/Airstrike.woff') format('woff'),
+        url('../fonts/Airstrike.svg#Airstrike') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 .wrapper{
 	width: 80%;
 	margin: 0 auto;
 }
+
+.download-wrapper{
+	width: 50%;
+	margin: 0 auto;
+}
+
+.space-between{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.space-around{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+/* Header */
+.header{
+	padding: 20px 0;
+	background-color: #020100;
+}
+	a img.logo{
+		width:50%;
+	}
+	
+	ul.nav li{
+		display: inline;
+	}
+	ul.nav li a{
+		margin-left: 60px;
+		
+	}
+	ul.nav li a:hover{
+		color: #FFF302; 
+	}
+
+/* content */ 
+
+.content{
+	background-color: #231f20;
+	padding: 40px 0;
+
+}
+
+	h1.content-title{
+		margin-bottom: 25px;
+		text-align: center;
+	}
+	.content-item{
+		text-align: center;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+		width: 33%;
+		transition-duration: 1s;
+    	transition-timing-function: ease-out;
+    	transition-duration: 1s;
+    	transition-timing-function: ease-in;
+	}
+
+	.content-item:hover{
+		transform: scale(0.8, 0.8);
+		transition-duration: 1s;
+    	transition-timing-function: ease-out;
+    	transition-duration: 1s;
+    	transition-timing-function: ease-in;
+	}
+	img.content-img{
+		border: 5px solid white;
+		border-radius: 100%;
+		width: 80%;
+		margin-bottom: 25px;	
+	}
+
+	.content i{
+		font-size: 50px;
+		color: #F1D302;
+		margin-bottom: 5px;
+	}
+
+	.content p{
+		color: #F1D302;
+	}
+
+/* Download */
+
+.download{
+	padding: 40px 0;
+} 
+	
