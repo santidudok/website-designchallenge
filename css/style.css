@@ -125,5 +125,15 @@ li{
 	background-image: url("../media/download-bg.png");
 	background-attachment: fixed;
 	background-position: 50% 50%
-} 
-	
+}
+
+.download a{
+	color: #fff;
+	background-color: #F1D302;
+	padding: 20px 10px;
+	border-radius: 10px;
+	}
+
+.download p{
+	color: #fff;
+}
