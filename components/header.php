@@ -8,7 +8,7 @@
 				<li><a href="#content" onclick="goToContent()">Graphics</a></li>
 				<li><a href="#download">Download</a></li>
 				<li><a href="#video">Video</a></li>
-				<li><a href="javacript:void(0)">test</a></li>
+				<li><a href="#footer">People</a></li>
 			</ul>
 		</div>
 	</div>

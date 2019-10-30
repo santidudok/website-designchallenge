@@ -121,7 +121,7 @@ li{
 /* Download */
 
 .download{
-	padding: 40px 0;
+	padding: 60px 0;
 	background-image: url("../media/download-bg.png");
 	background-attachment: fixed;
 	background-position: 50% 50%
@@ -133,26 +133,20 @@ li{
 	background-color: #F1D302;
 	padding: 20px 10px;
 	border-radius: 10px;
-	}
+}
 
 .download p{
 	color: #fff;
 }
 
-} 
-
 /* Video */
 .video{
-    background-color:#231f20;
-    width: 100;
+   background-color: #020100	;
 }
 .video iframe{
-  margin-left: 0;
-  margin-right: 0;
-  margin-top: 10%;
-  margin-bottom: 10%;
-  display: block;
-  width: 560px;
+ margin: 40px 0;
+  width: 60%;
+
 }
 
 .center{
@@ -160,5 +154,20 @@ li{
   justify-content: center;
   align-items: center;
 }
-	
 
+/* footer */ 
+	
+.footer{
+	padding: 20px 0;
+	background-color: #231f20;
+	color: #F1D302;
+}
+
+.footer h2{
+	color: #000;
+	margin-bottom: 20px;
+}
+
+.footer li{
+	line-height: 25px;
+}

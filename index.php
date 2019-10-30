@@ -5,12 +5,13 @@
 <?php include("components/content.php"); ?>
 
 <?php include("components/download.php") ?>
-<?php include("components/video.php") ?>
+
+<?php include("components/video.php"); ?>
+
+<?php include("components/footer.php"); ?>
 
 <?php include("components/foot.php"); ?>
 
-
-<?php include("components/download.php") ?>
 
 <script type="text/javascript">
 $(document).on("click","a",function(e){
