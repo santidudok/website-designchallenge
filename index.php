@@ -4,8 +4,12 @@
 
 <?php include("components/content.php"); ?>
 
+<?php include("components/download.php") ?>
+<?php include("components/video.php") ?>
+
 <?php include("components/foot.php"); ?>
 
+<<<<<<< Updated upstream
 <?php include("components/download.php") ?>
 
 <script type="text/javascript">
@@ -19,3 +23,5 @@ $(document).on("click","a",function(e){
     });
 
 </script>
+=======
+>>>>>>> Stashed changes
