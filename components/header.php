@@ -6,7 +6,7 @@
 			</a>
 			<ul class="nav">
 				<li><a href="#content">Graphics</a></li>
-				<li><a href="javacript:void(0)">test</a></li>
+				<li><a href="#download">Download</a></li>
 				<li><a href="javacript:void(0)">test</a></li>
 				<li><a href="javacript:void(0)">test</a></li>
 			</ul>
