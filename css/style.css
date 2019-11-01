@@ -7,12 +7,12 @@
 	
 }
 h1{
-	color: #F1D302;
+	color: #208a63;
 }
 
 a{
 	text-decoration: none;
-	color: #F1D302;
+	color: #208a63;
 }
 li{
 	list-style-type: none;
@@ -95,7 +95,7 @@ li{
 		
 	}
 	ul.nav li a:hover{
-		color: #FFF302; 
+		color: #208a63; 
 	}
 
 /* content */ 
@@ -139,12 +139,12 @@ li{
 
 	.content i{
 		font-size: 50px;
-		color: #F1D302;
+		color: #208a63;
 		margin-bottom: 5px;
 	}
 
 	.content p{
-		color: #F1D302;
+		color: #208a63;
 	}
 
 /* Download */
@@ -159,7 +159,7 @@ li{
 
 .download a{
 	color: #fff;
-	background-color: #F1D302;
+	background-color: #208a63;
 	padding: 20px 10px;
 	border-radius: 10px;
 }
@@ -189,7 +189,7 @@ li{
 .footer{
 	padding: 20px 0;
 	background-color: #231f20;
-	color: #F1D302;
+	color: #208a63;
 }
 
 .footer h2{
