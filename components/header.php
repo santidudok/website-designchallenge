@@ -2,7 +2,7 @@
 	<div class="wrapper">
 		<div class="space-between">
 			<a href="index.php">
-				<img class="logo" src="/media/New-logo1.png" alt="logo">
+				<img class="logo" src="media/New-logo1.png" alt="logo">
 			</a>
 			<ul class="nav">
 				<li><a href="#content" onclick="goToContent()">Graphics</a></li>
