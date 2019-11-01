@@ -28,6 +28,35 @@ li{
     font-style: normal;
 }
 
+/* responsive */
+
+@media (max-width: 1000px) {
+	.space-between{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+	.space-between a{
+		display: flex;
+		justify-content: center;
+	}
+}
+@media (max-width: 240px) {
+	.space-around{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+}
+@media (max-width: 240px) {
+	.space-around{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+}
+
 .wrapper{
 	width: 80%;
 	margin: 0 auto;
