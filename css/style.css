@@ -42,21 +42,14 @@ li{
 		justify-content: center;
 	}
 }
-@media (max-width: 240px) {
-	.space-around{
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-	}
-}
-@media (max-width: 240px) {
-	.space-around{
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-	}
-}
 
+@media (max-width: 240px) {
+	.footer-flex{
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+	}
+}
 .wrapper{
 	width: 80%;
 	margin: 0 auto;
@@ -199,4 +192,10 @@ li{
 
 .footer li{
 	line-height: 25px;
+}
+
+.footer-flex{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
 }
