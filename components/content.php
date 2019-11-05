@@ -3,7 +3,7 @@
 		<h1 class="content-title">Graphics</h1>
 		<div class="space-around">
 			<div class="content-item">
-				<img class="content-img" src="media/Map-new.png" alt="map">
+				<img class="content-img" src="media/new-map.png" alt="map">
 				<i class="fas fa-map"></i>
 				<p>Map</p>
 			</div>
