@@ -13,7 +13,7 @@
 				<p>Objects</p>
 			</div>
 			<div class="content-item">
-				<img class="content-img" src="media/test-map.png" alt="map">
+				<img class="content-img" src="media/players-new.png" alt="map">
 				<i class="fas fa-male"></i>
 				<p>Players</p>
 			</div>
