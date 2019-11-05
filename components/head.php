@@ -8,6 +8,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	
 	<title><?php echo $link3; ?></title>
 	<link rel="shortcut icon" type="icon" href="media/favicon.ico"/>
 	<link rel="stylesheet" type="text/css" href="css/style.css">

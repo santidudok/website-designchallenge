@@ -1,6 +1,6 @@
 <div class="footer" id="footer">
 	<div class="wrapper">
-		<div class="space-around">
+		<div class="footer-flex">
 			<div class="admins-block" data-aos="fade-right" data-aos-duration="1000">
 				<h2 class="admin-title">Autheurs</h2>
 				<ul class="admins">
