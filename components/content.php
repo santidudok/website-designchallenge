@@ -8,7 +8,7 @@
 				<p>Map</p>
 			</div>
 			<div class="content-item">
-				<img class="content-img" src="media/test-map.png" alt="map">
+				<img class="content-img" src="media/Objects.png" alt="map">
 				<i class="fas fa-cube"></i>
 				<p>Objects</p>
 			</div>
