@@ -8,12 +8,12 @@
 
 
 <script type="text/javascript">
-$(document).on("click","a",function(e){
+    $("a.nav-item").on("click", function(e){
         e.preventDefault();
         var id = $(this).attr("href"),
             topSpace = 30;
         $('html, body').animate({
-          scrollTop: $(id).offset().top - topSpace
+            scrollTop: $(id).offset().top - topSpace
         }, 800);
     });
 

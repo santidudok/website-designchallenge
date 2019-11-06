@@ -5,10 +5,10 @@
 				<img class="logo" src="media/New-logo1.png" alt="logo">
 			</a>
 			<ul class="nav">
-				<li><a href="#content" onclick="goToContent()">Graphics</a></li>
-				<li><a href="#download">Download</a></li>
-				<li><a href="#video">Video</a></li>
-				<li><a href="#footer">People</a></li>
+				<li><a class="nav-item" href="#content" onclick="goToContent()">Graphics</a></li>
+				<li><a class="nav-item" href="#download">Download</a></li>
+				<li><a class="nav-item" href="#video">Video</a></li>
+				<li><a class="nav-item" href="#footer">People</a></li>
 			</ul>
 		</div>
 	</div>
